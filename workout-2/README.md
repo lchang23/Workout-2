@@ -1,5 +1,4 @@
-# Info
-
+# Shiny App
 
 The purpose of this assignment is to create a shiny app that allows us to visualize in an
 interactive way the saving-investing modalities.
